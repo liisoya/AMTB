@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="老法师01", 老法师
-https://v.amtb.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="老法师03", 老法师
-https://v.hwadzan.info/liveedge/_definst_/smil:livetv.smil/chunklist_b828000.m3u8
+https://v.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="悟道法师01", 悟道法师
 https://v.amtb.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="多元文化台01", 多元文化台
@@ -17,8 +15,10 @@ https://v.amtb.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8
 https://v.amtb.info/liveedgehttp/_definst_/English/playlist.m3u8
 #EXTINF:-1 tvg-id="淨宗學院", 淨宗學院
 https://i.cibei.org/live/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="老法师02", 儒释道频道
-https://v.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="老法师02", 老法师
+https://v.amtb.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="老法师03", 老法师
+https://v.hwadzan.info/liveedge/_definst_/smil:livetv.smil/chunklist_b828000.m3u8
 #EXTINF:-1 tvg-id="悟道法师02", 悟道法师
 https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="多元文化台02", 多元文化台
