@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="老法师", 儒释道频道
+https://v.amtb.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="悟道法师", 悟道法师
+https://v.amtb.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/smil:wdmaster.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="多元文化台", 多元文化台
+https://v.amtb.info/liveedge/_definst_/education/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8
+#EXTINF:-1 tvg-id="網路三時繫念", 網路三時繫念
+https://v.amtb.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="網路念佛堂", 網路念佛堂
+https://v.amtb.info/liveedge/_definst_/smil:amtb.smil/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/smil:amtb.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="雙溪法會", 雙溪法會
+https://v.amtb.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8#https://v.hwadzan.info/liveedge/_definst_/smil:sx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AMTBEng", Master Chin Kung English
+https://v.amtb.info/liveedgehttp/_definst_/English/playlist.m3u8#https://v.hwadzan.info/liveedgehttp/_definst_/English/playlist.m3u8
+#EXTINF:-1 tvg-id="淨宗學院", 淨宗學院
+https://i.cibei.org/live/hd/playlist.m3u8
