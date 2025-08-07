@@ -1,3 +1,0 @@
-proxies:
-  - {"name":"LosAngeles-GetAFreeNode.com","type":"vmess","server":"107.172.235.75","port":45613,"cipher":"auto","uuid":"e7fa3972-2372-4142-b6d3-bfa528dd4e6b","alterId":0,"tls":true,"network":"ws","ws-opts":{"path":"/speedtest","headers":{"Host":"dxobG4aZmk.gafnode.sbs"}},"servername":"dxobG4aZmk.gafnode.sbs"}
-  - {"type":"hysteria2","name":"LosAngeles-GetAFreeNode","server":"107.172.235.75","port":53262,"password":"e7fa3972-2372-4142-b6d3-bfa528dd4e6b","sni":"dxobg4azmk.gafnode.sbs","skip-cert-verify":false,"tfo":false}
